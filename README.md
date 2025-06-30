@@ -1,3 +1,16 @@
+To run this project locally:
+1. Clone the repository:
+git clone https://github.com/PERSONAL/Intern-Assignment.git
+2. Navigate to the project folder:
+cd Intern-Assignment
+3. Install dependencies:
+npm install
+4. Start the development server:
+npm run dev
+5. Open your browser and go to:
+http://localhost:3000
+Make sure you have Node.js and npm installed on your computer.
+
 # Ghala Commerce Simulation System
 
 A simplified system that simulates how Ghala handles merchant payment configuration and order processing for WhatsApp commerce.
