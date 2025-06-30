@@ -1,6 +1,6 @@
 To run this project locally:
 1. Clone the repository:
-git clone https://github.com/PERSONAL/Intern-Assignment.git
+git clone https://github.com/ortosha/Intern-Assignment.git
 2. Navigate to the project folder:
 cd Intern-Assignment
 3. Install dependencies:
